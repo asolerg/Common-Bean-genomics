@@ -18,3 +18,4 @@ git remote add origin https://github.com/asolerg/Common-Bean-genomics.git
 
 # Push the code to GitHub
 git push -u origin main# Common-Bean-genomics
+# Common-Bean-genomics
