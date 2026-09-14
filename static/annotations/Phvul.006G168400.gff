@@ -1,0 +1,11 @@
+##gff-version 3
+##source-version geneious 9.1.8
+G19833_bc-3_Phvul.006G168400	Geneious	extracted region	1	2147	.	+	.	Name=Extracted region from Chr06
+G19833_bc-3_Phvul.006G168400	phytozomev11	three_prime_UTR	1924	2147	.	+	.	ID=Phvul.006G168400.1.v2.1.three_prime_UTR.1;Parent=pljRnCAfjMBCWFTuklK5Ulf1rHM.1726241858202.218588
+G19833_bc-3_Phvul.006G168400	phytozomev11	five_prime_UTR	1	91	.	+	.	ID=Phvul.006G168400.1.v2.1.five_prime_UTR.1;Parent=pljRnCAfjMBCWFTuklK5Ulf1rHM.1726241858202.218588
+G19833_bc-3_Phvul.006G168400	phytozomev11	CDS	1717	1782	.	+	.	ID=Phvul.006G168400.1.v2.1.CDS.4;Parent=pljRnCAfjMBCWFTuklK5Ulf1rHM.1726241858202.218588
+G19833_bc-3_Phvul.006G168400	phytozomev11	CDS	1029	1154	.	+	.	ID=Phvul.006G168400.1.v2.1.CDS.3;Parent=pljRnCAfjMBCWFTuklK5Ulf1rHM.1726241858202.218588
+G19833_bc-3_Phvul.006G168400	phytozomev11	CDS	1873	1923	.	+	.	ID=Phvul.006G168400.1.v2.1.CDS.5;Parent=pljRnCAfjMBCWFTuklK5Ulf1rHM.1726241858202.218588
+G19833_bc-3_Phvul.006G168400	phytozomev11	CDS	506	671	.	+	.	ID=Phvul.006G168400.1.v2.1.CDS.2;Parent=pljRnCAfjMBCWFTuklK5Ulf1rHM.1726241858202.218588
+G19833_bc-3_Phvul.006G168400	phytozomev11	CDS	92	375	.	+	.	ID=Phvul.006G168400.1.v2.1.CDS.1;Parent=pljRnCAfjMBCWFTuklK5Ulf1rHM.1726241858202.218588
+G19833_bc-3_Phvul.006G168400	phytozomev11	gene	1	2147	.	+	.	Name=Phvul.006G168400;ID=Phvul.006G168400.v2.1

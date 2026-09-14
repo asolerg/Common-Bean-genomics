@@ -1,0 +1,19 @@
+##gff-version 3
+##source-version geneious 9.1.8
+G19833_bc-2_Phvul.011G092700	Geneious	extracted region	1	7435	.	+	.	Name=Extracted region from Chr11
+G19833_bc-2_Phvul.011G092700	phytozomev11	five_prime_UTR	1	186	.	+	.	ID=Phvul.011G092700.1.v2.1.five_prime_UTR.1;Parent=Phvul.011G092700.1.v2.1
+G19833_bc-2_Phvul.011G092700	phytozomev11	CDS	6493	6567	.	+	.	ID=Phvul.011G092700.1.v2.1.CDS.5;Parent=Phvul.011G092700.1.v2.1
+G19833_bc-2_Phvul.011G092700	phytozomev11	CDS	6343	6411	.	+	.	ID=Phvul.011G092700.1.v2.1.CDS.4;Parent=Phvul.011G092700.1.v2.1
+G19833_bc-2_Phvul.011G092700	phytozomev11	CDS	5054	5252	.	+	.	ID=Phvul.011G092700.1.v2.1.CDS.3;Parent=Phvul.011G092700.1.v2.1
+G19833_bc-2_Phvul.011G092700	phytozomev11	CDS	780	885	.	+	.	ID=Phvul.011G092700.1.v2.1.CDS.2;Parent=Phvul.011G092700.1.v2.1
+G19833_bc-2_Phvul.011G092700	phytozomev11	CDS	187	664	.	+	.	ID=Phvul.011G092700.1.v2.1.CDS.1;Parent=Phvul.011G092700.1.v2.1
+G19833_bc-2_Phvul.011G092700	phytozomev11	CDS	7122	7247	.	+	.	ID=Phvul.011G092700.1.v2.1.CDS.8;Parent=Phvul.011G092700.1.v2.1
+G19833_bc-2_Phvul.011G092700	phytozomev11	CDS	6862	7017	.	+	.	ID=Phvul.011G092700.1.v2.1.CDS.7;Parent=Phvul.011G092700.1.v2.1
+G19833_bc-2_Phvul.011G092700	phytozomev11	CDS	6677	6775	.	+	.	ID=Phvul.011G092700.1.v2.1.CDS.6;Parent=Phvul.011G092700.1.v2.1
+G19833_bc-2_Phvul.011G092700	phytozomev11	gene	1	7435	.	+	.	Name=Phvul.011G092700;ID=Phvul.011G092700.v2.1
+G19833_bc-2_Phvul.011G092700	phytozomev11	three_prime_UTR	7248	7435	.	+	.	ID=Phvul.011G092700.1.v2.1.three_prime_UTR.1;Parent=Phvul.011G092700.1.v2.1
+G19833_bc-2_Phvul.011G092700	phytozomev11	mRNA	1	7435	.	+	.	Name=Phvul.011G092700.1;ID=Phvul.011G092700.1.v2.1;Parent=Phvul.011G092700.v2.1
+G19833_bc-2_Phvul.011G092700	Geneious	Junction	3568	3568	.	.	.	Name=junction 2;ID=pljRnCAfjMBCWFTuklK5Ulf1rHM.1789266016415.0
+G19833_bc-2_Phvul.011G092700	Geneious	Junction	3594	3594	.	.	.	Name=junction 2;ID=pljRnCAfjMBCWFTuklK5Ulf1rHM.1789266016415.0
+G19833_bc-2_Phvul.011G092700	Geneious	Junction	3491	3491	.	.	.	Name=junction 1;ID=pljRnCAfjMBCWFTuklK5Ulf1rHM.1789266016415.1
+G19833_bc-2_Phvul.011G092700	Geneious	Junction	3495	3495	.	.	.	Name=junction 1;ID=pljRnCAfjMBCWFTuklK5Ulf1rHM.1789266016415.1

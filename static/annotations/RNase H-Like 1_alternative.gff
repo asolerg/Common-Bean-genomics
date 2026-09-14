@@ -1,0 +1,6 @@
+##gff-version 3
+##source-version geneious 9.1.8
+GN1140_RNaseH_Like1	Geneious	misc_feature	1	1010	.	+	.	Name=
+GN1140_RNaseH_Like1	Geneious	CDS	329	829	.	+	.	Name=
+GN1140_RNaseH_Like1	Geneious	cds	8	244	.	+	.	Name=
+GN1140_RNaseH_Like1	Geneious	extracted region	1	1010	.	+	.	Name=Extracted region from GN1140
